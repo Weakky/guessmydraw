@@ -1,0 +1,333 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+GuessMyDraw
+</name>
+</assembly>
+<members>
+<member name="M:GuessMyDraw.CountDown.#ctor">
+	<summary>
+ Initializes a new instance of the CountDown class.
+ </summary>
+</member><member name="M:GuessMyDraw.CountDown.#ctor(System.TimeSpan)">
+	<summary>
+ Initializes a new instance of the CountDown class with the value from a System.Timespan.
+ </summary>
+	<param name="Span">The System.TimeSpan to take the value from</param>
+</member><member name="M:GuessMyDraw.CountDown.#ctor(System.Int32)">
+	<summary>
+ Initializes a new instance of the CountDown class with the value from Seconds.
+ </summary>
+	<param name="Seconds">Number of Seconds</param>
+</member><member name="M:GuessMyDraw.CountDown.#ctor(System.Int32,System.Int32)">
+	<summary>
+ Initializes a new instance of the CountDown class with the value from Seconds and Minutes.
+ </summary>
+	<param name="Seconds">Number of Seconds</param>
+	<param name="Minutes">Number of Minutes</param>
+</member><member name="M:GuessMyDraw.CountDown.#ctor(System.Int32,System.Int32,System.Int32)">
+	<summary>
+ Initializes a new instance of the CountDown class with the value from Seconds, Minutes and Hours.
+ </summary>
+	<param name="Seconds">Number of Seconds</param>
+	<param name="Minutes">Number of Minutes</param>
+	<param name="Hours">Number of Hours</param>
+</member><member name="M:GuessMyDraw.CountDown.#ctor(System.Int32,System.Int32,System.Int32,System.Int32)">
+	<summary>
+ Initializes a new instance of the CountDown class with the value from Seconds, Minutes, Hours and Days.
+ </summary>
+	<param name="Seconds">Number of Seconds</param>
+	<param name="Minutes">Number of Minutes</param>
+	<param name="Hours">Number of Hours</param>
+	<param name="Days">Number of Days</param>
+</member><member name="M:GuessMyDraw.CountDown.Start">
+	<summary>
+ Start the timer.
+ </summary>
+</member><member name="M:GuessMyDraw.CountDown.Pause">
+	<summary>
+ Pause the timer.
+ </summary>
+</member><member name="M:GuessMyDraw.CountDown.Reset">
+	<summary>
+ Stop the timer and reset the time.
+ </summary>
+</member><member name="M:GuessMyDraw.CountDown.SetTime(System.TimeSpan)">
+	<summary>
+ Set the time of the timer with the value from a System.Timespan.
+ </summary>
+	<param name="Span">The System.TimeSpan to take the value from</param>
+</member><member name="M:GuessMyDraw.CountDown.SetTime(System.Int32)">
+	<summary>
+ Set the time of the timer with Seconds.
+ </summary>
+	<param name="Seconds">Number of Seconds</param>
+</member><member name="M:GuessMyDraw.CountDown.SetTime(System.Int32,System.Int32)">
+	<summary>
+ Set the time of the timer with Seconds and Minutes.
+ </summary>
+	<param name="Seconds">Number of Seconds</param>
+	<param name="Minutes">Number of Minutes</param>
+</member><member name="M:GuessMyDraw.CountDown.SetTime(System.Int32,System.Int32,System.Int32)">
+	<summary>
+ Set the time of the timer with Seconds, Minutes and Hours.
+ </summary>
+	<param name="Seconds">Number of Seconds</param>
+	<param name="Minutes">Number of Minutes</param>
+	<param name="Hours">Number of Hours</param>
+</member><member name="M:GuessMyDraw.CountDown.SetTime(System.Int32,System.Int32,System.Int32,System.Int32)">
+	<summary>
+ Set the time of the timer with Seconds, Minutes, Hours and Days.
+ </summary>
+	<param name="Seconds">Number of Seconds</param>
+	<param name="Minutes">Number of Minutes</param>
+	<param name="Hours">Number of Hours</param>
+	<param name="Days">Number of Days</param>
+</member><member name="M:GuessMyDraw.CountDown.AddTime(System.TimeSpan)">
+	<summary>
+ Add extra time to the timer with the value from a System.Timespan.
+ </summary>
+	<param name="Span">The System.TimeSpan to take the value from</param>
+</member><member name="M:GuessMyDraw.CountDown.AddTime(System.Int32)">
+	<summary>
+ Add extra time to the timer with Seconds.
+ </summary>
+	<param name="Seconds">Number of Seconds</param>
+</member><member name="M:GuessMyDraw.CountDown.AddTime(System.Int32,System.Int32)">
+	<summary>
+ Add extra time to the timer with Seconds and Minutes.
+ </summary>
+	<param name="Seconds">Number of Seconds</param>
+	<param name="Minutes">Number of Minutes</param>
+</member><member name="M:GuessMyDraw.CountDown.AddTime(System.Int32,System.Int32,System.Int32)">
+	<summary>
+ Add extra time to the timer with Seconds, Minutes and Hours.
+ </summary>
+	<param name="Seconds">Number of Seconds</param>
+	<param name="Minutes">Number of Minutes</param>
+	<param name="Hours">Number of Hours</param>
+</member><member name="M:GuessMyDraw.CountDown.AddTime(System.Int32,System.Int32,System.Int32,System.Int32)">
+	<summary>
+ Add extra time to the timer with Seconds, Minutes, Hours and Days.
+ </summary>
+	<param name="Seconds">Number of Seconds</param>
+	<param name="Minutes">Number of Minutes</param>
+	<param name="Hours">Number of Hours</param>
+	<param name="Days">Number of Days</param>
+</member><member name="P:GuessMyDraw.CountDown.Seconds">
+	<summary>
+ Returns the number of Seconds left.
+ </summary>
+</member><member name="P:GuessMyDraw.CountDown.Minutes">
+	<summary>
+ Returns the number of Minutes left.
+ </summary>
+</member><member name="P:GuessMyDraw.CountDown.Hours">
+	<summary>
+ Returns the number of Hours left.
+ </summary>
+</member><member name="P:GuessMyDraw.CountDown.Days">
+	<summary>
+ Returns the number of Days left.
+ </summary>
+</member><member name="P:GuessMyDraw.CountDown.TotalSeconds">
+	<summary>
+ Returns the time in Seconds.
+ </summary>
+</member><member name="P:GuessMyDraw.CountDown.TotalMinutes">
+	<summary>
+ Returns the time in Minutes.
+ </summary>
+</member><member name="P:GuessMyDraw.CountDown.TotalHours">
+	<summary>
+ Returns the time in Hours.
+ </summary>
+</member><member name="P:GuessMyDraw.CountDown.TotalDays">
+	<summary>
+ Returns the time in Days.
+ </summary>
+</member><member name="E:GuessMyDraw.CountDown.TimesOut">
+	<summary>
+ Raises when the timer reaches 0.
+ </summary>
+</member><member name="E:GuessMyDraw.CountDown.Tick">
+	<summary>
+ Raises each Seconds.
+ </summary>
+</member><member name="T:GuessMyDraw.CountDown">
+	<summary>
+ Implements a countdown timer that raises an event each millisecond but most important when the time have run out.
+ </summary>
+</member><member name="P:GuessMyDraw.My.Resources.Resources.ResourceManager">
+	<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member><member name="P:GuessMyDraw.My.Resources.Resources.Culture">
+	<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member><member name="P:GuessMyDraw.My.Resources.Resources.avatar_101640">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessMyDraw.My.Resources.Resources.avatar_129283">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessMyDraw.My.Resources.Resources.logo">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessMyDraw.My.Resources.Resources.tMLCm">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessMyDraw.My.Resources.Resources.WordsEnglish">
+	<summary>
+  Recherche une chaîne localisée semblable à abba
+acdc
+acorn
+add
+adele
+africa
+airbag
+airplane
+airport
+aladdin
+alarm
+alien
+align
+alone
+alphabet
+amazon
+america
+anchor
+android
+angel
+anger
+animals
+ankle
+ant
+antenna
+wood
+monkey
+apple
+apron
+aquarium
+arm
+armor
+armpit
+army
+arrow
+art
+artist
+ash
+asia
+assassin
+asteroid
+atlantis
+attack
+attic
+audience
+avatar
+avengers
+avocado
+april
+award
+axe
+baby
+back
+backache
+backbone
+backpack
+bacon
+badge
+bag
+bagpipes
+bahamas
+bait
+bake
+baking
+balance
+balcony
+bald
+b [le reste de la chaîne a été tronqué]";.
+</summary>
+</member><member name="P:GuessMyDraw.My.Resources.Resources.WordsFrench">
+	<summary>
+  Recherche une chaîne localisée semblable à abba
+acdc
+gland
+ajouter
+adele
+afrique
+airbag
+avion
+aeroport
+aladdin
+alarme
+alien
+aligner
+seul
+alphabet
+amazone
+amerique
+ancre
+android
+ange
+colere
+animaux
+cheville
+fourmi
+antenne
+bois
+singe
+pomme
+tablier
+aquarium
+bras
+armure
+aisselle
+armee
+fleche
+art
+artiste
+cendre
+asie
+assassin
+asteroide
+atlantis
+attaque
+grenier
+public
+avatar
+avengers
+avocat
+avril
+prix
+hache
+bebe
+arriere
+mal au dos
+colonne vertebrale
+sac a dos
+bacon
+badge
+sac
+cornemuse
+bahamas
+app [le reste de la chaîne a été tronqué]";.
+</summary>
+</member><member name="T:GuessMyDraw.My.Resources.Resources">
+	<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member><member name="M:GuessMyDraw.Settings.Serializable.FontX.#ctor">
+	<summary>
+ Intended for xml serialization purposes only
+ </summary>
+</member>
+</members>
+</doc>

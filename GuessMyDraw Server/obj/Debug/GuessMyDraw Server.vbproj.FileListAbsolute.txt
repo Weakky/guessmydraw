@@ -1,0 +1,18 @@
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw\GuessMyDraw Server\bin\Debug\GuessMyDraw Server.exe
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw\GuessMyDraw Server\bin\Debug\GuessMyDraw Server.pdb
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw\GuessMyDraw Server\bin\Debug\GuessMyDraw Server.xml
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw\GuessMyDraw Server\bin\Debug\protobuf-net.dll
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw\GuessMyDraw Server\obj\Debug\GuessMyDraw_Server.Resources.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw\GuessMyDraw Server\obj\Debug\GuessMyDraw Server.vbproj.GenerateResource.Cache
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw\GuessMyDraw Server\obj\Debug\GuessMyDraw Server.exe
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw\GuessMyDraw Server\obj\Debug\GuessMyDraw Server.xml
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw\GuessMyDraw Server\obj\Debug\GuessMyDraw Server.pdb
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\GuessMyDraw Server\bin\Debug\GuessMyDraw Server.exe
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\GuessMyDraw Server\bin\Debug\GuessMyDraw Server.pdb
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\GuessMyDraw Server\bin\Debug\GuessMyDraw Server.xml
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\GuessMyDraw Server\bin\Debug\protobuf-net.dll
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\GuessMyDraw Server\obj\Debug\GuessMyDraw_Server.Resources.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\GuessMyDraw Server\obj\Debug\GuessMyDraw Server.vbproj.GenerateResource.Cache
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\GuessMyDraw Server\obj\Debug\GuessMyDraw Server.exe
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\GuessMyDraw Server\obj\Debug\GuessMyDraw Server.xml
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\GuessMyDraw Server\obj\Debug\GuessMyDraw Server.pdb

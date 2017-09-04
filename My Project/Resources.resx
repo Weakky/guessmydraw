@@ -1,0 +1,1299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="avatar_129283" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\avatar_129283.gif;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WordsFrench" xml:space="preserve">
+    <value>abba
+acdc
+gland
+ajouter
+adele
+afrique
+airbag
+avion
+aeroport
+aladdin
+alarme
+alien
+aligner
+seul
+alphabet
+amazone
+amerique
+ancre
+android
+ange
+colere
+animaux
+cheville
+fourmi
+antenne
+bois
+singe
+pomme
+tablier
+aquarium
+bras
+armure
+aisselle
+armee
+fleche
+art
+artiste
+cendre
+asie
+assassin
+asteroide
+atlantis
+attaque
+grenier
+public
+avatar
+avengers
+avocat
+avril
+prix
+hache
+bebe
+arriere
+mal au dos
+colonne vertebrale
+sac a dos
+bacon
+badge
+sac
+cornemuse
+bahamas
+appat
+cuire
+cuisson
+equilibre
+balcon
+chauve
+balle
+ballon
+bambou
+banane
+orchestre
+pansement
+bandana
+banque
+coiffeur
+code barre
+aboyer
+grange
+baril
+bart
+baseball
+panier
+chauve souris
+baignoire
+batman
+batterie
+baie
+plage
+bec
+haricot
+ours
+barbe
+beatles
+beckham
+lit
+abeille
+boeuf
+ruche
+biere
+cloche
+ceinture
+banc
+beyonce
+bavoir
+velo
+bieber
+velo
+bikini
+loto
+oiseau
+cage
+anniversaire
+noir
+lame
+couverture
+mixer
+dirigeable
+aveugle
+blond
+sang
+souffler
+bleu
+bateau
+bombe
+os
+feu
+bonjovi
+livre
+bibliotheque
+signet
+demarrage
+bottes
+frontiere
+bouteille
+bas
+rebond
+arc
+bol
+bowling
+bowser
+noeud papillon
+boite
+boxe
+bracelet
+bretelles
+cerveau
+frein
+bresil
+pain
+souffle
+brique
+pont
+brocoli
+balai
+brosse
+bulle
+seau
+boucle
+buffle
+punaise
+batiment
+ampoule
+taureau
+balle
+clochard
+pare chocs
+lapin
+hamburger
+bruler
+bus
+boucher
+fesses
+beurre
+bouton
+cabine
+cable
+cactus
+caddie
+gateau
+calendrier
+veau
+chameau
+appareil photo
+feu de camp
+camping
+canada
+bougie
+bonbon
+canne
+canon
+canoe
+casquette
+cape
+capitaine
+voiture
+carte
+carnaval
+tapis
+carotte
+siege
+caissier
+casino
+chateau
+chat
+catapulte
+poisson chat
+catwoman
+grotte
+cd
+plafond
+celeri
+cimetiere
+centaure
+centre
+cereale
+chaine
+tronconneuse
+chaise
+craie
+champion
+verifier
+dames
+joue
+fromage
+cuisinier
+cerise
+echecs
+poitrine
+mâcher
+poulet
+enfants
+cheminee
+menton
+frite
+eglise
+cigare
+cercle
+cirque
+ville
+palourde
+applaudir
+classe
+griffe
+argile
+falaise
+escalader
+horloge
+toilettes
+nuage
+clown
+entraineur
+charbon
+noix de coco
+cocon
+cafe
+cercueil
+piece
+froid
+collier
+college
+peigne
+comete
+boussole
+ordinateur
+concert
+cone
+cuisinier
+gateau
+cookie
+mais
+coin
+canape
+tribunal
+vache
+cowboy
+crabe
+fissure
+grue
+accident
+ramper
+croissant
+arbalete
+pied de biche
+couronne
+ecraser
+croute
+bequille
+pleurer
+cristal
+cuba
+calin
+tasse
+cupidon
+friser
+rideau
+client
+couper
+mignon
+cyclope
+daftpunk
+dallas
+danse
+pellicules
+danger
+mort
+sourd
+mort
+profond
+cerf
+defenseur
+delta
+dentiste
+dentier
+desert
+bureau
+diable
+diamant
+couche
+des
+mourir
+creuser
+fossette
+diner
+dinosaure
+diplome
+directeur
+terre
+maladie
+vaisselle
+plongeon
+etourdi
+dj
+adn
+quai
+medecin
+chien
+poupee
+dollar
+dauphin
+domino
+ane
+donut
+porte
+sonnette
+poignee
+paillasson
+porte
+pas de porte
+point
+colombe
+bas
+dracula
+dragon
+vider
+rideau
+dessiner
+tiroir
+rever
+toupie
+robe
+coiffeur
+baver
+perceuse
+boisson
+conduire
+tambour
+batteur
+batterie
+ivre
+dubstep
+canard
+duel
+haltere
+dunk
+chiffon
+pelle
+dynamite
+aigle
+oreille
+boucle d'oreille
+terre
+cerumen
+est
+paques
+manger
+echo
+eclipse
+bord
+anguille
+oeuf
+aubergine
+coude
+election
+elephant
+ascenseur
+emeraude
+eminem
+vide
+fin
+moteur
+angleterre
+enveloppe
+gomme
+evasion
+esquimau
+espresso
+europe
+mal
+exploser
+oeil
+sourcil
+cil
+paupiere
+yeux
+visage
+facebook
+usine
+fee
+tomber
+famille
+ventilateur
+croc
+ferme
+agriculteur
+pet
+fastfood
+pere
+robinet
+peur
+plume
+pieds
+cloture
+fougere
+ferry
+fievre
+champ
+bataille
+nageoire
+doigt
+finlande
+feu
+boule de feu
+luciole
+firefox
+parefeu
+feu d'artifice
+premier
+poisson
+peche
+poing
+drapeau
+flamme
+flamant
+eclair
+plat
+puce
+vol
+inondation
+etage
+floride
+soie
+farine
+fleur
+grippe
+chasse d'eau
+voler
+brouillard
+dossier
+idiot
+pied
+football
+force
+front
+foret
+fourche
+fort
+avant
+fontaine
+renard
+fraction
+cadre
+france
+gel
+frigo
+ami
+frisbee
+frodon
+grenouille
+fruit
+funerailles
+entonnoir
+fourrure
+furby
+galaxie
+gameboy
+gandalf
+gangster
+garage
+jardin
+jardinier
+ail
+gaz
+masque a gaz
+porte
+engrenage
+gemme
+germe
+allemagne
+fantome
+girafe
+fille
+verre
+lunettes
+joie
+globe
+gant
+colle
+objectif
+goal
+poteau
+chevre
+or
+poisson rouge
+golem
+golf
+club de golf
+google
+oie
+gorille
+grand mere
+grand pere
+raisin
+graphique
+herbe
+tombe
+sauce
+vert
+grenade
+grille
+griffon
+grill
+sourire
+guitare
+chewing gum
+pistolet
+gymnaste
+grele
+cheveux
+poilu
+aureole
+jambon
+marteau
+hamac
+hamster
+main
+sac a main
+handball
+menottes
+pistolet
+cintre
+pendu
+heureux
+port
+lievre
+harpe
+chapeau
+hawaii
+hawkeye
+tete
+mal de tete
+bandeau
+casque
+entendre
+coeur
+chaleur
+paradis
+talon
+casque
+randonnee
+colline</value>
+  </data>
+  <data name="WordsEnglish" xml:space="preserve">
+    <value>abba
+acdc
+acorn
+add
+adele
+africa
+airbag
+airplane
+airport
+aladdin
+alarm
+alien
+align
+alone
+alphabet
+amazon
+america
+anchor
+android
+angel
+anger
+animals
+ankle
+ant
+antenna
+wood
+monkey
+apple
+apron
+aquarium
+arm
+armor
+armpit
+army
+arrow
+art
+artist
+ash
+asia
+assassin
+asteroid
+atlantis
+attack
+attic
+audience
+avatar
+avengers
+avocado
+april
+award
+axe
+baby
+back
+backache
+backbone
+backpack
+bacon
+badge
+bag
+bagpipes
+bahamas
+bait
+bake
+baking
+balance
+balcony
+bald
+ball
+balloon
+bamboo
+banana
+band
+bandaid
+bandana
+bank
+barber
+barcode
+bark
+barn
+barrel
+bart
+baseball
+basket
+bat
+bathtub
+batman
+battery
+bay
+beach
+beak
+bean
+bear
+beard
+beatles
+beckham
+bed
+bee
+beef
+beehive
+beer
+bell
+belt
+bench
+beyonce
+bib
+bicycle
+bieber
+bike
+bikini
+bingo
+bird
+birdcage
+birthday
+black
+blade
+blanket
+blender
+blimp
+blind
+blonde
+blood
+blow
+blue
+boat
+bomb
+fire
+bonfire
+bonjovi
+book
+bookcase
+bookmark
+boot
+boots
+border
+bottle
+bottom
+bounce
+bow
+bowl
+bowling
+bowser
+bowtie
+box
+boxing
+bracelet
+braces
+brain
+brake
+brazil
+bread
+breath
+brick
+bridge
+broccoli
+broom
+brush
+bubble
+bucket
+loop
+buffalo
+bug
+building
+bulb
+bull
+bullet
+bum
+bumper
+bunny
+burger
+burn
+bus
+butcher
+butt
+butter
+button
+cabin
+cable
+cactus
+caddy
+cake
+calendar
+calf
+camel
+camera
+campfire
+camping
+canada
+candle
+candy
+cane
+cannon
+canoe
+cap
+cape
+captain
+car
+card
+carnival
+carpet
+carrot
+carseat
+cashier
+casino
+castle
+cat
+catapult
+catfish
+catwoman
+cave
+cd
+ceiling
+celery
+cemetery
+centaur
+center
+cereal
+chain
+chainsaw
+chair
+chalk
+champ
+check
+checkers
+cheek
+cheese
+chef
+cherry
+chess
+chest
+chew
+chicken
+children
+chimney
+chin
+chips
+church
+cigar
+circle
+circus
+city
+clam
+clap
+class
+claw
+clay
+cliff
+climb
+clock
+toilet
+cloud
+clown
+coach
+coal
+coconut
+cocoon
+coffee
+coffin
+coin
+cold
+necklace
+college
+comb
+comet
+compass
+computer
+concert
+cone
+cook
+cake
+cookie
+corn
+corner
+couch
+court
+cow
+cowboy
+crab
+crack
+crane
+crash
+crawl
+crescent
+crossbow
+crowbar
+crown
+crush
+crust
+crutche
+cry
+crystal
+cuba
+cuddle
+cup
+cupid
+curl
+curtain
+customer
+cut
+cute
+cyclops
+daftpunk
+dallas
+dance
+dandruff
+danger
+dead
+deaf
+death
+deep
+deer
+defender
+delta
+dentist
+denture
+desert
+desk
+devil
+diamond
+diaper
+dice
+die
+dig
+dimple
+dinner
+dinosaur
+diploma
+director
+dirt
+disease
+dishes
+dive
+dizzy
+dj
+dna
+dock
+doctor
+dog
+doll
+dollar
+dolphin
+domino
+donkey
+donut
+door
+doorbell
+doorknob
+doormat
+door
+doorstep
+dot
+dove
+down
+dracula
+dragon
+empty
+drapes
+draw
+drawer
+dream
+top
+dress
+dresser
+dribble
+drill
+drink
+drive
+drum
+drummer
+drums
+drunk
+dubstep
+duck
+duel
+dumbbell
+dunk
+duster
+dustpan
+dynamite
+eagle
+ear
+earring
+earth
+earwax
+east
+easter
+eat
+echo
+eclipse
+edge
+eel
+egg
+eggplant
+elbow
+election
+elephant
+elevator
+emerald
+eminem
+empty
+end
+engine
+england
+envelope
+eraser
+escape
+eskimo
+espresso
+europe
+evil
+explode
+eye
+eyebrow
+eyelash
+eyelid
+eyes
+face
+facebook
+factory
+fairy
+fall
+family
+fan
+fang
+farm
+farmer
+fart
+fastfood
+father
+faucet
+fear
+feather
+feet
+fence
+fern
+ferry
+fever
+field
+fight
+fin
+finger
+finland
+fire
+fireball
+firefly
+firefox
+firewall
+firework
+first
+fish
+fishing
+fist
+flag
+flame
+flamingo
+flash
+flat
+flea
+flight
+flood
+floor
+florida
+floss
+flour
+flower
+flu
+flush
+fly
+fog
+folder
+fool
+foot
+football
+strength
+forehead
+forest
+fork
+fort
+forward
+fountain
+fox
+fraction
+frame
+france
+freezing
+fridge
+friend
+frisbee
+frodo
+frog
+fruit
+funeral
+funnel
+fur
+furby
+galaxy
+gameboy
+gandalf
+gangster
+garage
+garden
+gardener
+garlic
+gas
+gasmask
+gate
+gears
+gem
+germ
+germany
+ghost
+giraffe
+girl
+glass
+glasses
+glee
+globe
+glove
+glue
+goal
+goalie
+goalpost
+goat
+gold
+goldfish
+golem
+golf
+golfclub
+google
+goose
+gorilla
+grandma
+grandpa
+grapes
+graph
+grass
+grave
+gravy
+green
+grenade
+grid
+griffin
+grill
+grin
+guitar
+gum
+gun
+gymnast
+hail
+hair
+hairy
+halo
+ham
+hammer
+hammock
+hamster
+hand
+handbag
+handball
+handcuff
+handgun
+hanger
+hangman
+happy
+harbor
+hare
+harp
+hat
+hawaii
+hawkeye
+head
+headache
+headband
+headset
+hear
+heart
+heat
+heaven
+heel
+helmet
+hiking
+hill</value>
+  </data>
+  <data name="tMLCm" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tMLCm.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="avatar_101640" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\avatar_101640.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logo.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

@@ -1,0 +1,25 @@
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw\bin\Debug\GuessMyDraw.exe.config
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw\obj\Debug\GuessMyDraw.GuessMyDraw.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw\obj\Debug\GuessMyDraw.Resources.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw\obj\Debug\GuessMyDraw Client.vbproj.GenerateResource.Cache
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw\bin\Debug\GuessMyDraw.exe
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw\bin\Debug\GuessMyDraw.pdb
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw\bin\Debug\GuessMyDraw.xml
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw\bin\Debug\protobuf-net.dll
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw\obj\Debug\GuessMyDraw.exe
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw\obj\Debug\GuessMyDraw.xml
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw\obj\Debug\GuessMyDraw.pdb
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw\obj\Debug\GuessMyDraw.frmConnect.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\bin\Debug\GuessMyDraw.exe.config
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\bin\Debug\GuessMyDraw.exe
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\bin\Debug\GuessMyDraw.pdb
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\bin\Debug\GuessMyDraw.xml
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\bin\Debug\protobuf-net.dll
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\obj\Debug\GuessMyDraw.frmConnect.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\obj\Debug\GuessMyDraw.frmMain.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\obj\Debug\GuessMyDraw.frmUpdate.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\obj\Debug\GuessMyDraw.Resources.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\obj\Debug\GuessMyDraw Client.vbproj.GenerateResource.Cache
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\obj\Debug\GuessMyDraw.exe
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\obj\Debug\GuessMyDraw.xml
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\obj\Debug\GuessMyDraw.pdb

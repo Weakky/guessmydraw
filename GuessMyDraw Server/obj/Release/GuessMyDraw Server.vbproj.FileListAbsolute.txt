@@ -1,0 +1,10 @@
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\GuessMyDraw Server\bin\Release\GuessMyDraw Server.exe
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\GuessMyDraw Server\bin\Release\GuessMyDraw Server.pdb
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\GuessMyDraw Server\bin\Release\GuessMyDraw Server.xml
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\GuessMyDraw Server\bin\Release\protobuf-net.dll
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\GuessMyDraw Server\obj\Release\GuessMyDraw_Server.Resources.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\GuessMyDraw Server\obj\Release\GuessMyDraw Server.vbproj.GenerateResource.Cache
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\GuessMyDraw Server\obj\Release\GuessMyDraw Server.exe
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\GuessMyDraw Server\obj\Release\GuessMyDraw Server.xml
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\GuessMyDraw Server\obj\Release\GuessMyDraw Server.pdb
+C:\Users\Utilisateur\Documents\Visual Studio 2013\Projects\GuessMyDraw MULTIPLAYER\GuessMyDraw Server\obj\Release\GuessMyDraw Server.vbprojResolveAssemblyReference.cache
